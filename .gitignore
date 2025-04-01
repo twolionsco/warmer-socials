@@ -5,3 +5,8 @@ __pycache__/
 venv/
 social_promotion_results/
 social_promotion_results_1/
+
+.pytest_cache/
+*.pyc
+.env.*.local
+.vscode/
