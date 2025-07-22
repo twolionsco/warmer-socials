@@ -10,3 +10,6 @@ social_promotion_results_1/
 *.pyc
 .env.*.local
 .vscode/
+
+tmp/
+.vscode/
